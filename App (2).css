@@ -1,0 +1,75 @@
+/* App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.filters label {
+  margin-right: 10px;
+}
+
+/* App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.filters label {
+  margin-right: 10px;
+}
+/* App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.filters label {
+  margin-right: 10px;
+}
+
+button {
+  margin-bottom: 10px;
+}
+

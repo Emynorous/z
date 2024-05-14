@@ -1,0 +1,69 @@
+
+{
+  "matches": [
+    {
+      "id": 1,
+      "team1": "Česká republika",
+      "team2": "Rusko",
+      "score1": 3,
+      "score2": 2,
+      "date": "2024-08-07"
+    },
+    {
+      "id": 2,
+      "team1": "Kanada",
+      "team2": "USA",
+      "score1": 2,
+      "score2": 4,
+      "date": "2024-05-02"
+    },
+    {
+      "id": 3,
+      "team1": "Slovensko",
+      "team2": "Románie",
+      "score1": 1,
+      "score2": 9,
+      "date": "2024-09-11"
+    },
+    {
+      "id": 4,
+      "team1": "Slovensko",
+      "team2": "USA",
+      "score1": 7,
+      "score2": 5,
+      "date": "2024-11-11"
+    },
+    {
+      "id": 5,
+      "team1": "Česká republika",
+      "team2": "USA",
+      "score1": 6,
+      "score2": 7,
+      "date": "2024-05-01"
+    },
+    {
+      "id": 6,
+      "team1": "Kanada",
+      "team2": "Česká Republika",
+      "score1": 4,
+      "score2": 5,
+      "date": "2024-02-02"
+    },
+    {
+      "id": 7,
+      "team1": "Británie",
+      "team2": "Švédsko",
+      "score1": 2,
+      "score2": 6,
+      "date": "2024-07-07"
+    },
+    {
+      "id": 8,
+      "team1": "Česká republika",
+      "team2": "Slovensko",
+      "score1": 4,
+      "score2": 4,
+      "date": "2024-08-08"
+    }
+  ]
+}
